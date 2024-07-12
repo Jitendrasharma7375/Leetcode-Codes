@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0783-search-in-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
