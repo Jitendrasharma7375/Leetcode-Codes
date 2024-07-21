@@ -7,7 +7,7 @@ class Solution {
             int more=target-nums[i];
             if(map.containsKey(more))
             {
-                return new int[]{i,map.get(more)};
+                return new int[]{map.get(more),i};
             }
             map.put(nums[i],i);
         }
