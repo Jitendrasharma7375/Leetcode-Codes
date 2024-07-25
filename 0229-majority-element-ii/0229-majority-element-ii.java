@@ -7,7 +7,7 @@ class Solution {
        for (int i = 0; i < n; i++) {
             mpp.put(v[i], mpp.getOrDefault(v[i], 0) + 1);
 
-            if (mpp.get(v[i]) == mini) {
+            if (mpp.get(v[i])==mini) {
                 ls.add(v[i]);
             }
             if (ls.size() == 2) break;
