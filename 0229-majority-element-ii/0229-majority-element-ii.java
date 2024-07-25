@@ -5,8 +5,7 @@ class Solution {
         List<Integer> ls=new ArrayList<>();
         Map<Integer,Integer> mpp=new HashMap<>();
        for (int i = 0; i < n; i++) {
-            int value = mpp.getOrDefault(v[i], 0);
-            mpp.put(v[i], value + 1);
+            mpp.put(v[i], mpp.getOrDefault(v[i], 0) + 1);
 
             if (mpp.get(v[i]) == mini) {
                 ls.add(v[i]);
