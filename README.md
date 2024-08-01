@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
