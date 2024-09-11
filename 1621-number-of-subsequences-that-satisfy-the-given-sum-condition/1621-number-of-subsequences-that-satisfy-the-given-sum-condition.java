@@ -15,9 +15,9 @@ class Solution {
             if(nums[l]+nums[r] <= target){
                 ans =( ans + power[r-l])%mod;
                 l++;
-            }else if(nums[l]+nums[r]>target){
+            }else 
                 r--;
-            }
+            
         }
 
         return ans;
