@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0229-majority-element-ii) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
