@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0020-valid-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Memoization
 |  |
 | ------- |
