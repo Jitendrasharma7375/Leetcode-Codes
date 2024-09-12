@@ -14,7 +14,7 @@ class Solution {
                 changes=(j-i+1)-maxFreq;
                 if((changes<=k) && changes>=0){
                     maxLen=Math.max(maxLen,j-i+1);
-                }
+                }else break;
             }
         }
         return maxLen;
