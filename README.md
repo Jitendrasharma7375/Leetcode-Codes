@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0792-binary-search) |
+| [0966-binary-subarrays-with-sum](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendrasharma7375/Leetcode-Codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
